@@ -1,0 +1,2 @@
+id,level,jurisdiction,tax,base,rate,applies_to,recipient,effective_from,source_title,source_url,verified_on,status
+KS-SEDG-SALES,local,Sedgwick County,County sales tax,percent_of_price,0.01,taxable retail sales in the county,Sedgwick County and its cities,,UNVERIFIED - needs official source,,,E
